@@ -50,8 +50,8 @@ Essa organização foi escolhida porque facilita o uso da recursão, já que a f
  
 ## 👤 Autor
  
-* **Ricardo Neres de Amurim Filho** * LinkedIn: [Seu Link]
-* E-mail: [Seu E-mail]
+* **Ricardo Neres de Amurim Filho** * LinkedIn: www.linkedin.com/in/ricardo-neres-de-amurim-filho-32188b391
+* E-mail: ricardoamurim963@gmail.com
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
