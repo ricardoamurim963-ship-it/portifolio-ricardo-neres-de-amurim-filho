@@ -36,4 +36,4 @@ Durante o desenvolvimento, foram validados comportamentos específicos do Python
  
 ---
 
-[Voltar ao início](https://github.com/Lusca2803/ricardoamurim963-ship-it/portfolio-ricardo-neres-de-amurim-filho)
+[Voltar ao início](https://github.com/ricardoamurim963-ship-it/portfolio-ricardo-neres-de-amurim-filho)
