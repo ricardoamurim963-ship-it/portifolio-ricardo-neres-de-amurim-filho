@@ -1,5 +1,5 @@
 # Ricardo Neres de Amurim Filho
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
  
 ---
  
@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 1° período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend.
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
